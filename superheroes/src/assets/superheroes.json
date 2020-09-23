@@ -1,0 +1,23 @@
+[
+    {
+        "supername": "Mosquitoman",
+        "firstname": "Maurice",
+        "lastname": "Kito",
+        "gender": "M",
+        "powers": ["Epic Needle", "Super Flight", "Mega Quick"]
+    },
+    {
+        "supername": "Whalewoman",
+        "firstname": "Wendy",
+        "lastname": "Ale",
+        "gender": "F",
+        "powers": ["Grand Waterjet", "Loud Dive", "Impenetrable Skin"]
+    },
+    {
+        "supername": "SuperOtter",
+        "firstname": "Ottilie",
+        "lastname": "Herr",
+        "gender": "F",
+        "powers": ["Primale Strength", "Coldness Resistance", "Sharp Teeth"]
+    }
+]
