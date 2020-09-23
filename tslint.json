@@ -13,7 +13,10 @@
         "component-selector": [true, "element", "sup", "kebab-case"],
         "newline-per-chained-call": false,
         "template-i18n": false,
-        "arrow-parens": true
+        "arrow-parens": true,
+        "array-type": [true, "array-simple"],
+        "no-implicit-dependencies": [true, ["@models", "@api-bindings", "@core", "@store"]],
+        "no-null-keyword": false
     },
     "rulesDirectory": ["codelyzer"]
 }

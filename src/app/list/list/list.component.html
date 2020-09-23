@@ -1,0 +1,7 @@
+<p>list works!</p>
+
+<ul *ngIf="superheroes$ | async as superheroes">
+    <li *ngFor="let superhero of superheroes; trackBy: trackBySuperhero">
+        {{ superhero.supername }}
+    </li>
+</ul>

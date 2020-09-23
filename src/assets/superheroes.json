@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "supername": "Mosquitoman",
         "firstname": "Maurice",
         "lastname": "Kito",
@@ -7,6 +8,7 @@
         "powers": ["Epic Needle", "Super Flight", "Mega Quick"]
     },
     {
+        "id": 2,
         "supername": "Whalewoman",
         "firstname": "Wendy",
         "lastname": "Ale",
@@ -14,6 +16,7 @@
         "powers": ["Grand Waterjet", "Loud Dive", "Impenetrable Skin"]
     },
     {
+        "id": 3,
         "supername": "SuperOtter",
         "firstname": "Ottilie",
         "lastname": "Herr",
